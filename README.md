@@ -3,3 +3,6 @@ An automated equity research and sensitivity dashboard developed in Python. Util
 
 Live Link Application: 
 **https://equity-valuation-dashboard-vg6kazbyxfshqxueb4caea.streamlit.app/** 
+
+**UPDATED** Link:
+https://equity-valuation-dashboard-jgbzyxppexrzdtgnwpbeam.streamlit.app/ 
